@@ -1,0 +1,9 @@
+build
+.DS_Store
+*.3dsx
+*.elf
+*.bin
+*.smdh
+*.o
+*.d
+*.old
